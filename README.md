@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Software Development 
 - 💞️ I’m looking to collaborate on a Web design, coding project or the development of a videogame
 - 👜 I have 2 years of experience of web development and design using HTML
+- 🧠 I got knowledge of the basic concepts of Java and C++
 - 📫 How to reach me: hsoto479@gmail.com 
 
 <!---
